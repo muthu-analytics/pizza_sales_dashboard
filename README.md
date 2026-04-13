@@ -114,7 +114,7 @@ The dataset includes:
 ---
 
 ## 📷 Dashboard Preview
-
+https://github.com/muthu-analytics/pizza_sales_dashboard/blob/main/screenshot/Screenshot%202026-04-10%20131900.png
 ---
 
 ## 🚀 Key Learnings
